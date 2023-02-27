@@ -22,16 +22,16 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Mike Pagan",
     "photo": "/photo.jpg",
     "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
     "contacts": {
       "rss": "",
       "email": "",
-      "github": "#",
+      "github": "mjpagan",
       "facebook": "#",
       "telegram": "#",
-      "twitter": "#",
+      "twitter": "mjpagan",
       "linkedin": "#",
       "instagram": "#",
       "mastodon": "#",
