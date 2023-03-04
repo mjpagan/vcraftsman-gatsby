@@ -1,6 +1,6 @@
 ---
 title: Create a VM in Azure with a Uploaded Virtual Disk
-date: "2017-08-19T22:40:32.169Z"
+date: "2023-02-27T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/Create-a-VM-in-Azure-with-a-Uploaded-Virtual-Disk"
